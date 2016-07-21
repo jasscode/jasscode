@@ -1,0 +1,27 @@
+
+
+body{ 
+ background-color:#ff8080;}   
+ 
+section {
+    margin-left: 190px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+ header {
+    font-family: Comic Sans MS;
+	font-size: 40px;
+	padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}   
+aside {
+    float: left;
+    max-width: 180px;
+    margin: 0;
+    padding: 1em;
+	
+}
